@@ -1,0 +1,16 @@
+{
+  "name": "tap-win-timeout",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:coreyfarrell/tap-win-timeout"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^14.9.2"
+  }
+}
