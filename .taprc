@@ -1,1 +1,4 @@
-timeout: 60000
+nyc-arg:
+  - "--all"
+  - "--include=\"lib/**\""
+coverage-map: "coverage-map.js"
